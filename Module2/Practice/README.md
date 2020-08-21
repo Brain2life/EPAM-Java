@@ -3,7 +3,7 @@
 1. Найдите значение функции: z = ( (a – 3 ) * b / 2) + c
 
 <code>
-javac FunctonZ
+javac FunctonZ.java
 
 java FunctionZ [аргумент a] [аргумент b] [аргумент c]
 </code>
@@ -11,8 +11,15 @@ java FunctionZ [аргумент a] [аргумент b] [аргумент c]
 2. Вычислить значение выражения по формуле (все переменные принимают действительные значения):
 
 <code>
-javac Discriminant
+javac Discriminant.java
 
 java Discriminant [аргумент a] [аргумент b] [аргумент c]
 </code>
 
+3. Вычислить значение выражения по формуле (все переменные принимают действительные значения):
+
+<code>
+javac Trigonometry.java
+
+java Trigonometry [аргумент x] [аргумент y]
+</code>
