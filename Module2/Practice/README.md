@@ -23,3 +23,20 @@ javac Trigonometry.java
 
 java Trigonometry [аргумент x] [аргумент y]
 </code>
+
+4. Вычислить значение выражения по формуле (все переменные принимают действительные значения):
+
+<code>
+javac ReverseRealNumber.java
+
+java ReverseRealNumber [число]
+</code>
+
+5. Дано натуральное число Т, которое представляет длительность прошедшего времени в секундах. Вывести данное значение длительности в часах, минутах и секундах в следующей форме:
+ННч ММмин SSc:
+
+<code>
+javac ConvertTime.java
+
+java ConvertTime.java [секунды]
+</code>
