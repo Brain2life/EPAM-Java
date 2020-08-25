@@ -38,14 +38,14 @@
     <code>
     javac ConvertTime.java
 
-    java ConvertTime.java [секунды]
+    java ConvertTime [секунды]
     </code>
 
 6. Для данной области составить линейную программу, которая печатает true, если точка с координатами (х, у)
 принадлежит закрашенной области, и false — в противном случае:
 
     <code>
-    javac ConvertTime.java
+    javac CheckCoordinates.java
 
-    java ConvertTime.java [секунды]
+    java CheckCoordinates [x] [y]
     </code>
