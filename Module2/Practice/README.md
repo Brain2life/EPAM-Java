@@ -2,41 +2,50 @@
 
 1. Найдите значение функции: z = ( (a – 3 ) * b / 2) + c
 
-<code>
-javac FunctonZ.java
+    <code>
+    javac FunctonZ.java
 
-java FunctionZ [аргумент a] [аргумент b] [аргумент c]
-</code>
+    java FunctionZ [аргумент a] [аргумент b] [аргумент c]
+    </code>
 
 2. Вычислить значение выражения по формуле (все переменные принимают действительные значения):
 
-<code>
-javac Discriminant.java
+    <code>
+    javac Discriminant.java
 
-java Discriminant [аргумент a] [аргумент b] [аргумент c]
-</code>
+    java Discriminant [аргумент a] [аргумент b] [аргумент c]
+    </code>
 
 3. Вычислить значение выражения по формуле (все переменные принимают действительные значения):
 
-<code>
-javac Trigonometry.java
+    <code>
+    javac Trigonometry.java
 
-java Trigonometry [аргумент x] [аргумент y]
-</code>
+    java Trigonometry [аргумент x] [аргумент y]
+    </code>
 
 4. Вычислить значение выражения по формуле (все переменные принимают действительные значения):
 
-<code>
-javac ReverseRealNumber.java
+    <code>
+    javac ReverseRealNumber.java
 
-java ReverseRealNumber [число]
-</code>
+    java ReverseRealNumber [число]
+    </code>
 
 5. Дано натуральное число Т, которое представляет длительность прошедшего времени в секундах. Вывести данное значение длительности в часах, минутах и секундах в следующей форме:
 ННч ММмин SSc:
 
-<code>
-javac ConvertTime.java
+    <code>
+    javac ConvertTime.java
 
-java ConvertTime.java [секунды]
-</code>
+    java ConvertTime.java [секунды]
+    </code>
+
+6. Для данной области составить линейную программу, которая печатает true, если точка с координатами (х, у)
+принадлежит закрашенной области, и false — в противном случае:
+
+    <code>
+    javac ConvertTime.java
+
+    java ConvertTime.java [секунды]
+    </code>
